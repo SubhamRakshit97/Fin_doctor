@@ -1,2 +1,2 @@
 # Fin-Doctors 
-Replit Deployed Link :  [Deployed link]
+Replit Deployed Link :
